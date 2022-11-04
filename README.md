@@ -4,7 +4,7 @@ Thank you for Originally Simplilearn channal on youtube to explain the code. (ht
 
 ** I recommend to follow on my the step because I spend a lot of time to solve the problem of import face_recognition but the program unknown the library. **
 
-1. Install Python version 3.9 (On my file)
+1. Install Python version 3.9 to your PC (https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe)
 2. Install pip (https://www.youtube.com/watch?v=Ko9b_vC6XY0)
 3. Install numpy (cmd and type: pip install numpy)
 4. Install opencv-python (cmd and type: pip install opencv-python)
